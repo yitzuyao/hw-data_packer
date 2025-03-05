@@ -1,0 +1,18 @@
+current directory: /Users/ytyao/NTHU/SEC/hw-data_packer/vendor/bundle/ruby/3.4.0/gems/stringio-3.1.5/ext/stringio
+/Users/ytyao/.rbenv/versions/3.4.2/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/ytyao/NTHU/SEC/hw-data_packer/vendor/bundle/ruby/3.4.0/gems/stringio-3.1.5/ext/stringio
+make DESTDIR\= sitearchdir\=./.gem.20250303-18517-esutb2 sitelibdir\=./.gem.20250303-18517-esutb2 clean
+
+current directory: /Users/ytyao/NTHU/SEC/hw-data_packer/vendor/bundle/ruby/3.4.0/gems/stringio-3.1.5/ext/stringio
+make DESTDIR\= sitearchdir\=./.gem.20250303-18517-esutb2 sitelibdir\=./.gem.20250303-18517-esutb2
+compiling stringio.c
+linking shared-object stringio.bundle
+
+current directory: /Users/ytyao/NTHU/SEC/hw-data_packer/vendor/bundle/ruby/3.4.0/gems/stringio-3.1.5/ext/stringio
+make DESTDIR\= sitearchdir\=./.gem.20250303-18517-esutb2 sitelibdir\=./.gem.20250303-18517-esutb2 install
+/usr/bin/install -c -m 0755 stringio.bundle ./.gem.20250303-18517-esutb2
+
+current directory: /Users/ytyao/NTHU/SEC/hw-data_packer/vendor/bundle/ruby/3.4.0/gems/stringio-3.1.5/ext/stringio
+make DESTDIR\= sitearchdir\=./.gem.20250303-18517-esutb2 sitelibdir\=./.gem.20250303-18517-esutb2 clean

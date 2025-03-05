@@ -1,0 +1,19 @@
+current directory: /Users/ytyao/NTHU/SEC/hw-data_packer/vendor/bundle/ruby/3.4.0/gems/debug-1.10.0/ext/debug
+/Users/ytyao/.rbenv/versions/3.4.2/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/ytyao/NTHU/SEC/hw-data_packer/vendor/bundle/ruby/3.4.0/gems/debug-1.10.0/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20250303-18517-bdps2j sitelibdir\=./.gem.20250303-18517-bdps2j clean
+
+current directory: /Users/ytyao/NTHU/SEC/hw-data_packer/vendor/bundle/ruby/3.4.0/gems/debug-1.10.0/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20250303-18517-bdps2j sitelibdir\=./.gem.20250303-18517-bdps2j
+compiling debug.c
+compiling iseq_collector.c
+linking shared-object debug/debug.bundle
+
+current directory: /Users/ytyao/NTHU/SEC/hw-data_packer/vendor/bundle/ruby/3.4.0/gems/debug-1.10.0/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20250303-18517-bdps2j sitelibdir\=./.gem.20250303-18517-bdps2j install
+/usr/bin/install -c -m 0755 debug.bundle ./.gem.20250303-18517-bdps2j/debug
+
+current directory: /Users/ytyao/NTHU/SEC/hw-data_packer/vendor/bundle/ruby/3.4.0/gems/debug-1.10.0/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20250303-18517-bdps2j sitelibdir\=./.gem.20250303-18517-bdps2j clean

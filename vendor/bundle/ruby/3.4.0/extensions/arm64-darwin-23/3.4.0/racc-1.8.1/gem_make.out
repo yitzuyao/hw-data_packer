@@ -1,0 +1,18 @@
+current directory: /Users/ytyao/NTHU/SEC/hw-data_packer/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+/Users/ytyao/.rbenv/versions/3.4.2/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/ytyao/NTHU/SEC/hw-data_packer/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250303-14112-tp1cec sitelibdir\=./.gem.20250303-14112-tp1cec clean
+
+current directory: /Users/ytyao/NTHU/SEC/hw-data_packer/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250303-14112-tp1cec sitelibdir\=./.gem.20250303-14112-tp1cec
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+
+current directory: /Users/ytyao/NTHU/SEC/hw-data_packer/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250303-14112-tp1cec sitelibdir\=./.gem.20250303-14112-tp1cec install
+/usr/bin/install -c -m 0755 cparse.bundle ./.gem.20250303-14112-tp1cec/racc
+
+current directory: /Users/ytyao/NTHU/SEC/hw-data_packer/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250303-14112-tp1cec sitelibdir\=./.gem.20250303-14112-tp1cec clean
